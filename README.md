@@ -1,1 +1,0 @@
-# syslog-log-viewer
