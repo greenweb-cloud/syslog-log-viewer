@@ -1,4 +1,5 @@
-# PimpMyLog
+# syslog-log-viewer
+
 
 Pimp my Log is a web app written in PHP. It displays server logs friendly.
 
